@@ -2,7 +2,7 @@
 #支持绝大部分搭建的UnblockNeteaseMusic
 #Qx
 HOST-SUFFIX, music.163.com, UnblockNeteaseMusic
-HOST-SUFFIX, music.126.net, UnblockNeteaseMusic
+HOST-SUFFIX, music.126.net, Direct
 HOST-SUFFIX, api.iplay.163.com, UnblockNeteaseMusic
 HOST-SUFFIX, mam.netease.com, UnblockNeteaseMusic
 HOST-SUFFIX, hz.netease.com, UnblockNeteaseMusic
